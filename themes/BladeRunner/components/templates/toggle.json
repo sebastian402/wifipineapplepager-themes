@@ -1,0 +1,11 @@
+{
+  "enabled": [
+    { "image_path": "assets/toggle/enabled/toggle_bg.png", "recolor_palette": "gray" , "x": 0, "y": 4},
+    { "image_path": "assets/toggle/enabled/circle.png", "recolor_palette": "dark_green" ,"x": 14, "y": 6 },
+    { "image_path": "assets/toggle/enabled/check.png", "recolor_palette": "green" ,"x": 16, "y": 9 }
+  ],
+  "disabled": [
+    { "image_path": "assets/toggle/disabled/toggle_disabled_bg.png", "recolor_palette": "gray" , "x": 0, "y": 4 },
+    { "image_path": "assets/toggle/disabled/circle.png", "recolor_palette": "black" ,"x": 2, "y": 6 }
+  ]
+}
